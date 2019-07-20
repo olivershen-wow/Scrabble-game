@@ -36,8 +36,8 @@ $ java -jar ScrabbleClient.jar
 - thread-per-connection architecture
 
 ## Demo
-![Login](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/Login.png)
+![Login](https://raw.githubusercontent.com/oliverShen1994/Scrabble-Game/master/Resource/Login.png)
 
-![Desk](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/Desk.png)
+![Desk](https://raw.githubusercontent.com/oliverShen1994/Scrabble-Game/master/Resource/Desk.png)
 
-![Board](https://raw.githubusercontent.com/ZintrulCre/Scrabble-Game/master/Resource/Board.png)
+![Board](https://raw.githubusercontent.com/oliverShen1994/Scrabble-Game/master/Resource/Board&Score.png)
