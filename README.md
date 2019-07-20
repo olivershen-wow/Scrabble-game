@@ -28,8 +28,10 @@ $ java -jar ScrabbleClient.jar
 - handle operations from the server
 ### Client GUI
 - display user interface
+- show user instruction
 - update the board
 - show the score
+- pass current turn
 
 ## Implementation
 - TCP
