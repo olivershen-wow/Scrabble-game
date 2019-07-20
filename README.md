@@ -32,6 +32,7 @@ $ java -jar ScrabbleClient.jar
 - update the board
 - show the score
 - pass current turn
+- vote if selection is a word
 
 ## Implementation
 - TCP
